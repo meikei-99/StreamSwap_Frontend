@@ -19,9 +19,9 @@ export default function HomePage() {
                         <span>Manage</span> money every second.
                     </h1>
                     <h3 className=" text-md md:text-lg">
-                        StreamSwap is a 2-in-1 tool that helps you to manage
-                        real-time money and swap crypto assets through
-                        dollar-cost averaging.
+                        StreamSwap is a 2-in-1 Dapp that helps you stream tokens
+                        in real-time and allows the receiver to dollar-cost
+                        average into crypto assets
                     </h3>
                     <div className="flex flex-row justify-center gap-4">
                         <Link href="./Super">
@@ -30,7 +30,7 @@ export default function HomePage() {
                         <a
                             target="_blank"
                             rel="noreferrer"
-                            href="https://github.com/meikei-99/StreamSwap"
+                            href="https://github.com/meikei-99/StreamSwap_Frontend"
                         >
                             {" "}
                             <button className={buttonClassName}>Guide</button>
