@@ -25,11 +25,11 @@ export default function Sidebar() {
                 >
                     {buttonIcon ? (
                         <IoMenuOutline
-                            className="text-lg"
+                            className="text-xs"
                             arial-hidden="true"
                         />
                     ) : (
-                        <RxCross2 className="text-2xl" arial-hidden="true" />
+                        <RxCross2 className="text-xs" arial-hidden="true" />
                     )}
                 </button>
                 <div className="hidden lg:block h-screen">
