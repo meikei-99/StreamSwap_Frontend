@@ -1,4 +1,4 @@
-# StreamSwap
+# StreamSwap @Polygon Mumbai testnet
 StreamSwap is a 2-in-1 Dapp that helps you stream tokens in real-time and allows the receiver to dollar-cost average into crypto assets.
 <br/><br/>
 The MATICx tokens have powerful streaming functionality that can be streamed by a sender to a receiver on a monthly basis. 
