@@ -4,7 +4,6 @@ import SuperfluidStreamAddress from "../constants/SuperfluidStreamAddress.json"
 import abi from "../constants/abi.json"
 import { ethers } from "ethers"
 import { useMoralis } from "react-moralis"
-import { use } from "chai"
 
 export default function Swap() {
     const { chainId: chainIdHex } = useMoralis()

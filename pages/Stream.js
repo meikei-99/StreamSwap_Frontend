@@ -263,14 +263,15 @@ export default function Stream() {
                                             Visit{" "}
                                             <a
                                                 target="_blank"
+                                                rel="noreferrer"
                                                 className="hover:cursor-pointer underline underline-offset-4 text-blue-800"
                                                 href="https://console.superfluid.finance/"
                                             >
                                                 superfluid console {""}
                                             </a>
-                                            and insert receiver's address to
-                                            check how much MATICx has the wallet
-                                            received.
+                                            and insert address of the receiver
+                                            to check how much MATICx has the
+                                            wallet received.
                                         </h3>
                                     </div>
                                 ) : (
@@ -296,15 +297,16 @@ export default function Stream() {
                                                     Visit{" "}
                                                     <a
                                                         target="_blank"
+                                                        rel="noreferrer"
                                                         className="hover:cursor-pointer underline underline-offset-4 text-blue-800"
                                                         href="https://console.superfluid.finance/"
                                                     >
                                                         superfluid console {""}
                                                     </a>
-                                                    and insert receiver's
-                                                    address to check how much
-                                                    MATICx has the wallet
-                                                    received.
+                                                    and insert address of the
+                                                    receiver address to check
+                                                    how much MATICx has the
+                                                    wallet received.
                                                 </h3>
                                             </div>
                                         ) : (

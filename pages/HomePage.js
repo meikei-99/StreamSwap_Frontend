@@ -29,6 +29,7 @@ export default function HomePage() {
                         </Link>
                         <a
                             target="_blank"
+                            rel="noreferrer"
                             href="https://github.com/meikei-99/StreamSwap"
                         >
                             {" "}
