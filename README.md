@@ -18,7 +18,7 @@ Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3)
 - delete: delete a stream between two accounts 
 - switch: specify the swap from MATICx to fDAI, or vice versa
 - enter: enter the swap stage (***user must first enter the swap before swapping can be performed***)
-- swap: perform swap between MATICx and fDAI
+- swap: perform swap between MATICx and fDAI (***kindly input swap amount of less than 1 MATICx/fDAI at the current stage)
 - withdraw: withdraw fDAI to the user's Metamask account
 
 ## **What I learnt**
@@ -28,5 +28,7 @@ Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3)
 ### **Disclaimer**
 The dapp is still in development mode and future improvement is needed. 
 Thank you. 
+
+@Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2
 
 
