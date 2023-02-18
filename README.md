@@ -37,5 +37,6 @@ The dapp is still in development mode and future improvement is needed.
 Thank you. 
 
 @Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2
+Kindly refer to the Github repository (StreamSwap_Backend) for the code of smart contract.
 
 
