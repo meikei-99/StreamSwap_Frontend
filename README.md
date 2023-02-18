@@ -33,10 +33,10 @@ Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3)
 - Tailwind 
 
 ### **Disclaimer**
-The dapp is still in development mode and future improvement is needed. 
+The dapp is still in development mode and future improvement is needed. It might take some time to load the webpages.
 Thank you. 
 
 @Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2 <br/><br/>
-Kindly refer to the Github repository (StreamSwap_Backend) for the code of smart contract.
+Kindly refer to the Github repository (StreamSwap_Backend) for the code of smart contract. Click here for<a href="https://streamswap.on.fleek.co/" target="_blank"> live website</a>.
 
 
