@@ -1,6 +1,6 @@
 # StreamSwap @Polygon Mumbai testnet
 
-StreamSwap is a 2-in-1 Dapp that helps you stream tokens in real-time and allows the receiver to dollar-cost average into crypto assets.
+StreamSwap is a 2-in-1 DEX that helps you stream tokens in real-time and allows the receiver to dollar-cost average into crypto assets.
 <br/><br/>
 The MATICx tokens have powerful streaming functionality that can be streamed by a sender to a receiver on a monthly basis.
 <br/><br/>
@@ -26,6 +26,7 @@ Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3)
 -   withdraw: withdraw fDAI to the user's Metamask account
 
 ## **What I learnt**
+
 -   how to build Dapp with different protocols (Uniswap and Superfluid)
 -   how to automate smart contract's function using Chainlink Automation
 -   how to build Dapp with different protocols (Uniswap and Superfluid)
@@ -33,6 +34,7 @@ Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3)
 -   how to implement functions from ERC20
 
 ## **Language/Framework used**
+
 -   Solidity
 -   Next.js
 -   ether.js
@@ -50,15 +52,15 @@ How to solve this problem??<br/><br/>
 You should now have this address `streamswap.on.fleek.co/Stream` on your browser's address bar. Remove `/Stream` from the address bar and reload the page. The problem might be resolved.
 
 ### **Disclaimer**
+
 The dapp is still in development mode and future improvement is needed.
 Thank you.
 
-@Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2
-=======
+# @Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2
+
 The dapp is still in development mode and future improvement is needed. It might take some time to load the webpages.
-Thank you. 
+Thank you.
 
 @Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2 <br/><br/>
 Backend code: <a href="https://github.com/meikei-99/StreamSwap_Backend" target="_blank">here</a> <br/>
 Live demo:<a href="https://streamswap.on.fleek.co/" target="_blank"> here</a>.
-

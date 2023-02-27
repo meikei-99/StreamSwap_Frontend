@@ -19,7 +19,7 @@ export default function HomePage() {
                         <span>Manage</span> money every second.
                     </h1>
                     <h3 className=" text-md md:text-lg">
-                        StreamSwap is a 2-in-1 Dapp that helps you stream tokens
+                        StreamSwap is a 2-in-1 DEX that helps you stream tokens
                         in real-time and allows the receiver to dollar-cost
                         average into crypto assets
                     </h3>
