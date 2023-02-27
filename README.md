@@ -51,14 +51,9 @@ You should now have this address `streamswap.on.fleek.co/Stream` on your browser
 
 ### **Disclaimer**
 
-The dapp is still in development mode and future improvement is needed.
-Thank you.
-
-# @Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2
-
 The dapp is still in development mode and future improvement is needed. It might take some time to load the webpages.
 Thank you.
-
+<br/><br/>
 @Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2 <br/><br/>
 Backend code: <a href="https://github.com/meikei-99/StreamSwap_Backend" target="_blank">here</a> <br/>
 Live demo:<a href="https://streamswap.on.fleek.co/" target="_blank"> here</a>.
