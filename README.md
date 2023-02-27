@@ -26,18 +26,13 @@ Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3)
 -   withdraw: withdraw fDAI to the user's Metamask account
 
 ## **What I learnt**
-<<<<<<< HEAD
-
 -   how to build Dapp with different protocols (Uniswap and Superfluid)
 -   how to automate smart contract's function using Chainlink Automation
-=======
-- build Dapp with different protocols (Uniswap and Superfluid)
-- automate smart contract's function using Chainlink Automation
-- implement functions from ERC20
->>>>>>> da96f67882e05c35086932e0cd1ffc0af937fe4e
+-   how to build Dapp with different protocols (Uniswap and Superfluid)
+-   how to automate smart contract's function using Chainlink Automation
+-   how to implement functions from ERC20
 
 ## **Language/Framework used**
-
 -   Solidity
 -   Next.js
 -   ether.js
@@ -55,8 +50,6 @@ How to solve this problem??<br/><br/>
 You should now have this address `streamswap.on.fleek.co/Stream` on your browser's address bar. Remove `/Stream` from the address bar and reload the page. The problem might be resolved.
 
 ### **Disclaimer**
-<<<<<<< HEAD
-
 The dapp is still in development mode and future improvement is needed.
 Thank you.
 
@@ -69,5 +62,3 @@ Thank you.
 Backend code: <a href="https://github.com/meikei-99/StreamSwap_Backend" target="_blank">here</a> <br/>
 Live demo:<a href="https://streamswap.on.fleek.co/" target="_blank"> here</a>.
 
-
->>>>>>> da96f67882e05c35086932e0cd1ffc0af937fe4e
