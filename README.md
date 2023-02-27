@@ -25,13 +25,11 @@ Receiver specifies the swap amount (i.e. 0.001 MATICx/day) and duration (i.e. 3)
 -   swap: perform swap between MATICx and fDAI (**_kindly input swap amount of less than 1 MATICx/fDAI at the current stage_**)
 -   withdraw: withdraw fDAI to the user's Metamask account
 
-## **What I learnt**
+## **What I have learned**
 
 -   how to build Dapp with different protocols (Uniswap and Superfluid)
 -   how to automate smart contract's function using Chainlink Automation
--   how to build Dapp with different protocols (Uniswap and Superfluid)
--   how to automate smart contract's function using Chainlink Automation
--   how to implement functions from ERC20
+-   how to create and deploy ERC20 token
 
 ## **Language/Framework used**
 
