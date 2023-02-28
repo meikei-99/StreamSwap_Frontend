@@ -4,7 +4,7 @@ StreamSwap is a 2-in-1 DEX that helps you stream tokens in real-time and allows 
 <br/><br/>
 The MATICx tokens have powerful streaming functionality that can be streamed by a sender to a receiver on a monthly basis.
 <br/><br/>
-Sender wraps MATIC token into MATICx token, specifies monthly flow rate of MATICx (i.e. 0.1 MATICx/month) and the receiver receive MATICx every second (i.e. 0.00000003858 MATICx/second ≈ 0.003 MATICx/day) for a period of one month.
+Sender wraps MATIC token into MATICx token, specifies monthly flow rate of MATICx (i.e. 0.1 MATICx/month) and the receiver receives MATICx every second (i.e. 0.00000003858 MATICx/second ≈ 0.003 MATICx/day) for a period of one month.
 <br/>
 
 ## **How can the receiver make use of the MATICx token received every second??**
