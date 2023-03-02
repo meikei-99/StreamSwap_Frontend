@@ -56,4 +56,4 @@ Thank you.
 <br/>
 @Contract address: 0x069a3374b3e788f8563206A432a9Af4963c96Eb2 <br/><br/>
 Backend code: <a href="https://github.com/meikei-99/StreamSwap_Backend" target="_blank">here</a> <br/>
-Live demo:<a href="https://streamswap.on.fleek.co/" target="_blank"> here</a>.
+Live demo:<a href="https://stream-swap.vercel.app/" target="_blank"> here</a>.
